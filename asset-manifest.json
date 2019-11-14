@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/xolmlk/static/css/main.e487b2ca.chunk.css",
+    "main.js": "/xolmlk/static/js/main.cd952b8e.chunk.js",
+    "main.js.map": "/xolmlk/static/js/main.cd952b8e.chunk.js.map",
+    "runtime-main.js": "/xolmlk/static/js/runtime-main.f107631f.js",
+    "runtime-main.js.map": "/xolmlk/static/js/runtime-main.f107631f.js.map",
+    "static/js/2.9c9485f5.chunk.js": "/xolmlk/static/js/2.9c9485f5.chunk.js",
+    "static/js/2.9c9485f5.chunk.js.map": "/xolmlk/static/js/2.9c9485f5.chunk.js.map",
+    "index.html": "/xolmlk/index.html",
+    "precache-manifest.dc58960d97d603e6a2d54fd12815adb5.js": "/xolmlk/precache-manifest.dc58960d97d603e6a2d54fd12815adb5.js",
+    "service-worker.js": "/xolmlk/service-worker.js",
+    "static/css/main.e487b2ca.chunk.css.map": "/xolmlk/static/css/main.e487b2ca.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f107631f.js",
+    "static/js/2.9c9485f5.chunk.js",
+    "static/css/main.e487b2ca.chunk.css",
+    "static/js/main.cd952b8e.chunk.js"
+  ]
+}
